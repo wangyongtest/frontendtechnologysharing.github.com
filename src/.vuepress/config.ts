@@ -2,7 +2,6 @@ import { defineUserConfig } from 'vuepress'
 import theme from './theme.js'
 
 export default defineUserConfig({
-  base: '/gh-pages/',
   locales: {
     '/': {
       lang: 'en-US',

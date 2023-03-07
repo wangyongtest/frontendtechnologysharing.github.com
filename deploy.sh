@@ -20,7 +20,8 @@ git commit -m 'deploy'
 # git push -f git@github.com:<wangyongtest>/<wangyongtest>.github.io.git main
 
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
- git push -f git@github.com:wangyongtest/frontEndTechnologySharing.git master:gh-pages
+ git push -f git@github.com:wangyongtest/frontendtechnologysharing.github.com  master:gh-pages
+
 
 
 cd -

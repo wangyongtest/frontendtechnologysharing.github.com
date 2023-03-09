@@ -1,52 +1,11 @@
-import { navbar } from "vuepress-theme-hope";
+import { navbar } from 'vuepress-theme-hope'
 
 export const enNavbar = navbar([
-  "/",
-  { text: "Demo", icon: "discover", link: "/demo/" },
-  {
-    text: "Posts",
-    icon: "edit",
-    prefix: "/posts/",
-    children: [
-      {
-        text: "Apple",
-        icon: "edit",
-        prefix: "apple/",
-        children: [
-          { text: "Apple1", icon: "edit", link: "1" },
-          { text: "Apple2", icon: "edit", link: "2" },
-          "3",
-          "4",
-        ],
-      },
-      {
-        text: "Banana",
-        icon: "edit",
-        prefix: "banana/",
-        children: [
-          {
-            text: "Banana 1",
-            icon: "edit",
-            link: "1",
-          },
-          {
-            text: "Banana 2",
-            icon: "edit",
-            link: "2",
-          },
-          "3",
-          "4",
-        ],
-      },
-      { text: "Cherry", icon: "edit", link: "cherry" },
-      { text: "Dragon Fruit", icon: "edit", link: "dragonfruit" },
-      "tomato",
-      "strawberry",
-    ],
-  },
-  {
-    text: "V2 Docs",
-    icon: "note",
-    link: "https://theme-hope.vuejs.press/",
-  },
-]);
+  { text: 'Home', icon: 'home', link: '/' },
+  { text: 'Vue', icon: 'vuejs', link: '/en/vue/' },
+  { text: 'React', icon: 'react', link: '/en/react/' },
+  { text: 'Javascript', icon: 'javascript', link: '/en/javascript/' },
+  { text: 'TS', icon: 'typescript', link: '/en/TS/' },
+  { text: 'Nodejs', icon: 'nodejs', link: '/en/nodejs/' },
+  { text: 'uniapp', icon: 'app4', link: '/en/uniapp/' }
+])

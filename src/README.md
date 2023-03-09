@@ -7,6 +7,9 @@ icon: home
 # heroText: The name of your blog
 # tagline: You can put your slogan here
 heroFullScreen: true
+# bgImage: '' // 主页背景图片
+# bgImageStyle： "" // 背景图片的 CSS 样式。
+# heroImageStyle: '' // 首页图标的 CSS 样式
 projects:
   - icon: project
     name: project name

@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://wangyongtest.github.io/frontendtechnologysharing.github.com/sitemap.xml

@@ -9,12 +9,21 @@ export const zhSidebar = sidebar({
     //   link: 'demo/',
     //   children: 'structure'
     // },
-    { text: 'Vue', icon: 'vue', link: '/en/vue/' },
-    { text: 'React', icon: 'react', link: '/en/react/' },
-    { text: 'Javascript', icon: 'javascript', link: '/en/javascript/' },
-    { text: 'TS', icon: 'typescript', link: '/en/TS/' },
-    { text: 'Nodejs', icon: 'nodejs', link: '/en/nodejs/' },
-    { text: 'uniapp', icon: 'app4', link: '/en/uniapp/' },
-    { text: '日常笔记', icon: 'richangguanli', link: '/en/dailyAccumulation/' }
+    {
+      text: 'Vue',
+      icon: 'vuejs',
+      link: '/zh/vue/',
+      prefix: '/zh/vue/',
+      children: [
+        { text: 'ref', icon: 'vuejs', link: 'ref' },
+        { text: 'reactive', icon: 'vuejs', link: 'reactive' }
+      ]
+    },
+    { text: 'React', icon: 'react', link: '/zh/react/' },
+    { text: 'Javascript', icon: 'javascript', link: '/zh/javascript/' },
+    { text: 'TS', icon: 'typescript', link: '/zh/TS/' },
+    { text: 'Nodejs', icon: 'nodejs', link: '/zh/nodejs/' },
+    { text: 'uniapp', icon: 'app4', link: '/zh/uniapp/' },
+    { text: '日常笔记', icon: 'richangguanli', link: '/zh/dailyAccumulation/' }
   ]
 })

@@ -1,6 +1,6 @@
 ---
 # This is the title of the article
-title: ref
+title: Ref
 # This is the icon of the page
 icon: page
 # This control sidebar order
@@ -11,11 +11,10 @@ author: WY
 date: 2023-03-08
 # A page can have multiple categories
 category:
-  - Guide
+  - Vue
 # A page can have multiple tags
 tag:
-  - Page config
-  - Guide
+  - Vue
 # this page is sticky in article list
 sticky: true
 # this page will appear in starred articles
@@ -26,4 +25,13 @@ footer: Footer content for test
 copyright: No Copyright
 ---
 
-## vue3.0+ ref
+<!-- 加上这个注释more仅显示标题 -->
+<!-- more -->
+
+## 原理
+
+## 用法
+
+## 示例
+
+## 小试牛刀

@@ -27,10 +27,10 @@ copyright: No Copyright
 ---
 
 <!-- more -->
-### Theory
+## Theory
 
-### Usage
+## Usage
 
-### Example
+## Example
 
-### Test
+## Test

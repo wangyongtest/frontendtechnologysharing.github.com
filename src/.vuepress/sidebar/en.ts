@@ -13,7 +13,16 @@ export const enSidebar = sidebar({
       ]
     },
     { text: 'React', icon: 'react', link: '/en/react/' },
-    { text: 'Javascript', icon: 'javascript', link: '/en/javascript/' },
+    {
+      text: 'Javascript',
+      icon: 'javascript',
+      link: '/en/javascript/',
+      prefix: '/en/javascript/',
+      children: [
+        { text: 'Proxy', icon: 'javascript', link: 'proxy' },
+        { text: 'PdfPreview', icon: 'javascript', link: 'PDF-Preview' }
+      ]
+    },
     { text: 'TS', icon: 'typescript', link: '/en/TS/' },
     { text: 'Nodejs', icon: 'nodejs', link: '/en/nodejs/' },
     { text: 'uniapp', icon: 'app4', link: '/en/uniapp/' },

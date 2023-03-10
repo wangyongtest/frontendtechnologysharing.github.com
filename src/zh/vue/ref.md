@@ -25,7 +25,7 @@ footer: Footer content for test
 copyright: No Copyright
 ---
 
-<!-- 加上这个注释more仅显示标题 -->
+
 <!-- more -->
 
 ## 原理

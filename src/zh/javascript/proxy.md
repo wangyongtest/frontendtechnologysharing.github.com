@@ -2,9 +2,9 @@
 
 # This is the title of the article
 
-title: Reactive
+title: Proxy
 
-shortTitle: Reactive
+shortTitle: Proxy
 
 # This is the icon of the page
 
@@ -52,10 +52,3 @@ copyright: No Copyright
 ---
 
 <!-- more -->
-## Theory
-
-## Usage
-
-## Example
-
-## [Test](https://sfc.vuejs.org/#eNp9kMFugzAMQH/FyqWt2pKdEZ22/8iFZmaja5zIMeyA8u8zIKFqk3qL7ecX25N5T6kaBzS1abLnPglklCG9OupDiiwwAWPrpR8RCnQcA+yU3zly5CNl5aUVhMuG7SfwcSCp4QXKYea6gbQSCXryjAFJ9geYHMHaWy348eioOGrsOoYOoIFgSHdFNAJoroOIWt78vfffF2c2nTMLADBNj0ooKtQ+uzYq09jNaE5m3fAc2lTdciS9wTKUipdCdqZex5xzuvQcO/MlknJtbe78fLlbriJ/Wn1VrH/2ASvM4Xzl+JORVezM6cFhNTkinxnpAxn5mfMP+s87a3XDYsovBkCguQ==)

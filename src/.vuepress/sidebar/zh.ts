@@ -20,7 +20,16 @@ export const zhSidebar = sidebar({
       ]
     },
     { text: 'React', icon: 'react', link: '/zh/react/' },
-    { text: 'Javascript', icon: 'javascript', link: '/zh/javascript/' },
+    {
+      text: 'Javascript',
+      icon: 'javascript',
+      link: '/zh/javascript/',
+      prefix: '/zh/javascript/',
+      children: [
+        { text: 'Proxy', icon: 'javascript', link: 'proxy' },
+        { text: 'PdfPreview', icon: 'javascript', link: 'PDF-Preview' }
+      ]
+    },
     { text: 'TS', icon: 'typescript', link: '/zh/TS/' },
     { text: 'Nodejs', icon: 'nodejs', link: '/zh/nodejs/' },
     { text: 'uniapp', icon: 'app4', link: '/zh/uniapp/' },

@@ -297,7 +297,7 @@ app.listen(4000)
       - window.open，例如 window.open(xxx)
       - Content-disposition，例如 Content-disposition：attachment；filename="xxx"
 
-### a标签下载
+### 方式四 a标签下载
 
 - a标签 的 download 属性用于指示浏览器 下载 href 指定的 URL，而不是导航到该资源，通常会提示用户将其保存为本地文件，如果 download 属性有指定内容，这个值就会在下载保存过程中作为 预填充的文件名，主要是因为如下原因
   - 这个值可能会通过 JavaScript 进行动态修改

@@ -1,1 +1,0 @@
-import{$ as e,a0 as o,a1 as r,a4 as t}from"./framework-43d5a06a.js";const a={};function c(n,_){return o(),r("div",null,[t(" more ")])}const l=e(a,[["render",c],["__file","proxy.html.vue"]]);export{l as default};

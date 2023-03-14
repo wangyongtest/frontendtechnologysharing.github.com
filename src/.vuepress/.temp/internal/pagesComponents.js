@@ -23,6 +23,8 @@ export const pagesComponents = {
   "v-1205b4f4": defineAsyncComponent(() => import(/* webpackChunkName: "v-1205b4f4" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/zh/javascript/PDF-Preview.html.vue")),
   // path: /zh/javascript/proxy.html
   "v-b92dfe36": defineAsyncComponent(() => import(/* webpackChunkName: "v-b92dfe36" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/zh/javascript/proxy.html.vue")),
+  // path: /zh/javascript/watcher.html
+  "v-3f3e6852": defineAsyncComponent(() => import(/* webpackChunkName: "v-3f3e6852" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/zh/javascript/watcher.html.vue")),
   // path: /zh/vue/reactive.html
   "v-e11bb6e2": defineAsyncComponent(() => import(/* webpackChunkName: "v-e11bb6e2" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/zh/vue/reactive.html.vue")),
   // path: /zh/vue/ref.html
@@ -71,6 +73,14 @@ export const pagesComponents = {
   "v-9e9d1c20": defineAsyncComponent(() => import(/* webpackChunkName: "v-9e9d1c20" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/zh/category/pdfpreview/index.html.vue")),
   // path: /zh/tag/pdfpreview/
   "v-7efbef3c": defineAsyncComponent(() => import(/* webpackChunkName: "v-7efbef3c" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/zh/tag/pdfpreview/index.html.vue")),
+  // path: /zh/category/proxy/
+  "v-5b15e38a": defineAsyncComponent(() => import(/* webpackChunkName: "v-5b15e38a" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/zh/category/proxy/index.html.vue")),
+  // path: /zh/tag/proxy/
+  "v-c8a57284": defineAsyncComponent(() => import(/* webpackChunkName: "v-c8a57284" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/zh/tag/proxy/index.html.vue")),
+  // path: /zh/category/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/
+  "v-2e2a7666": defineAsyncComponent(() => import(/* webpackChunkName: "v-2e2a7666" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/zh/category/设计模式/index.html.vue")),
+  // path: /zh/tag/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/
+  "v-2598a69c": defineAsyncComponent(() => import(/* webpackChunkName: "v-2598a69c" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/zh/tag/设计模式/index.html.vue")),
   // path: /zh/category/vue/
   "v-8fa3949c": defineAsyncComponent(() => import(/* webpackChunkName: "v-8fa3949c" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/zh/category/vue/index.html.vue")),
   // path: /zh/tag/vue/

@@ -21,6 +21,8 @@ export const pagesData = {
   "v-1205b4f4": () => import(/* webpackChunkName: "v-1205b4f4" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/zh/javascript/PDF-Preview.html.js").then(({ data }) => data),
   // path: /zh/javascript/proxy.html
   "v-b92dfe36": () => import(/* webpackChunkName: "v-b92dfe36" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/zh/javascript/proxy.html.js").then(({ data }) => data),
+  // path: /zh/javascript/watcher.html
+  "v-3f3e6852": () => import(/* webpackChunkName: "v-3f3e6852" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/zh/javascript/watcher.html.js").then(({ data }) => data),
   // path: /zh/vue/reactive.html
   "v-e11bb6e2": () => import(/* webpackChunkName: "v-e11bb6e2" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/zh/vue/reactive.html.js").then(({ data }) => data),
   // path: /zh/vue/ref.html
@@ -69,6 +71,14 @@ export const pagesData = {
   "v-9e9d1c20": () => import(/* webpackChunkName: "v-9e9d1c20" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/zh/category/pdfpreview/index.html.js").then(({ data }) => data),
   // path: /zh/tag/pdfpreview/
   "v-7efbef3c": () => import(/* webpackChunkName: "v-7efbef3c" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/zh/tag/pdfpreview/index.html.js").then(({ data }) => data),
+  // path: /zh/category/proxy/
+  "v-5b15e38a": () => import(/* webpackChunkName: "v-5b15e38a" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/zh/category/proxy/index.html.js").then(({ data }) => data),
+  // path: /zh/tag/proxy/
+  "v-c8a57284": () => import(/* webpackChunkName: "v-c8a57284" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/zh/tag/proxy/index.html.js").then(({ data }) => data),
+  // path: /zh/category/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/
+  "v-2e2a7666": () => import(/* webpackChunkName: "v-2e2a7666" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/zh/category/设计模式/index.html.js").then(({ data }) => data),
+  // path: /zh/tag/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/
+  "v-2598a69c": () => import(/* webpackChunkName: "v-2598a69c" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/zh/tag/设计模式/index.html.js").then(({ data }) => data),
   // path: /zh/category/vue/
   "v-8fa3949c": () => import(/* webpackChunkName: "v-8fa3949c" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/zh/category/vue/index.html.js").then(({ data }) => data),
   // path: /zh/tag/vue/

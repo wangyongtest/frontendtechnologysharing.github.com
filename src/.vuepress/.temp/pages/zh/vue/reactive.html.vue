@@ -1,4 +1,42 @@
-<template><div><!-- more -->
+<template><div><!--
+ * @Author: wy wang.yong@easttrans.cn
+ * @Date: 2023-03-09 18:02:44
+ * @LastEditors: wy wang.yong@easttrans.cn
+ * @LastEditTime: 2023-03-20 14:03:52
+ * @FilePath: \frontendtechnologysharing.github.com\src\zh\vue\reactive.md
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
+<hr>
+<h1 id="this-is-the-title-of-the-article" tabindex="-1"><a class="header-anchor" href="#this-is-the-title-of-the-article" aria-hidden="true">#</a> This is the title of the article</h1>
+<p>title: Reactive
+shortTitle: Reactive</p>
+<h1 id="this-is-the-icon-of-the-page" tabindex="-1"><a class="header-anchor" href="#this-is-the-icon-of-the-page" aria-hidden="true">#</a> This is the icon of the page</h1>
+<p>icon: page</p>
+<h1 id="this-control-sidebar-order" tabindex="-1"><a class="header-anchor" href="#this-control-sidebar-order" aria-hidden="true">#</a> This control sidebar order</h1>
+<p>order: 1</p>
+<h1 id="set-author" tabindex="-1"><a class="header-anchor" href="#set-author" aria-hidden="true">#</a> Set author</h1>
+<p>author: WY</p>
+<h1 id="set-writing-time" tabindex="-1"><a class="header-anchor" href="#set-writing-time" aria-hidden="true">#</a> Set writing time</h1>
+<p>date: 2023-03-08</p>
+<h1 id="a-page-can-have-multiple-categories" tabindex="-1"><a class="header-anchor" href="#a-page-can-have-multiple-categories" aria-hidden="true">#</a> A page can have multiple categories</h1>
+<p>category:</p>
+<ul>
+<li>Vue</li>
+</ul>
+<h1 id="a-page-can-have-multiple-tags" tabindex="-1"><a class="header-anchor" href="#a-page-can-have-multiple-tags" aria-hidden="true">#</a> A page can have multiple tags</h1>
+<p>tag:</p>
+<ul>
+<li>Vue</li>
+</ul>
+<h1 id="this-page-is-sticky-in-article-list" tabindex="-1"><a class="header-anchor" href="#this-page-is-sticky-in-article-list" aria-hidden="true">#</a> this page is sticky in article list</h1>
+<p>sticky: true</p>
+<h1 id="this-page-will-appear-in-starred-articles" tabindex="-1"><a class="header-anchor" href="#this-page-will-appear-in-starred-articles" aria-hidden="true">#</a> this page will appear in starred articles</h1>
+<p>star: true</p>
+<h1 id="you-can-customize-footer-content" tabindex="-1"><a class="header-anchor" href="#you-can-customize-footer-content" aria-hidden="true">#</a> You can customize footer content</h1>
+<p>footer: Footer content for test</p>
+<h1 id="you-can-customize-copyright-content" tabindex="-1"><a class="header-anchor" href="#you-can-customize-copyright-content" aria-hidden="true">#</a> You can customize copyright content</h1>
+<h2 id="copyright-no-copyright" tabindex="-1"><a class="header-anchor" href="#copyright-no-copyright" aria-hidden="true">#</a> copyright: No Copyright</h2>
+<!-- more -->
 <h2 id="原理" tabindex="-1"><a class="header-anchor" href="#原理" aria-hidden="true">#</a> 原理</h2>
 <h2 id="用法" tabindex="-1"><a class="header-anchor" href="#用法" aria-hidden="true">#</a> 用法</h2>
 <h2 id="示例" tabindex="-1"><a class="header-anchor" href="#示例" aria-hidden="true">#</a> 示例</h2>

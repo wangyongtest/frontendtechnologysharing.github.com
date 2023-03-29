@@ -50,4 +50,5 @@ export const pagesRoutes = [
   ["v-6decd5e6","/zh/tag/vue/",{"y":"p","t":"Vue 标签","I":0},["/zh/tag/vue/index.html"]],
   ["v-4e127069","/zh/category/standard/",{"y":"p","t":"Standard 分类","I":0},["/zh/category/standard/index.html"]],
   ["v-41985e96","/zh/tag/standard/",{"y":"p","t":"Standard 标签","I":0},["/zh/tag/standard/index.html"]],
+  ["v-7719c3dd","/zh/javascript/axios.html",{"a":"WY","d":"2023-03-22T00:00:00.000Z","l":"2023年3月22日","c":["javascript","Axios","Ajax","Fetch"],"g":["javascript","Axios","Ajax","Fetch"],"u":true,"y":"a","t":"Axios Ajax  Fetch","i":"page","O":1,"s":"Axios Ajax  Fetch"},["/zh/javascript/axios","/zh/javascript/axios.md"]],
 ]

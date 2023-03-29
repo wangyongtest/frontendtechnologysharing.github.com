@@ -103,4 +103,6 @@ export const pagesComponents = {
   "v-4e127069": defineAsyncComponent(() => import(/* webpackChunkName: "v-4e127069" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/zh/category/standard/index.html.vue")),
   // path: /zh/tag/standard/
   "v-41985e96": defineAsyncComponent(() => import(/* webpackChunkName: "v-41985e96" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/zh/tag/standard/index.html.vue")),
+  // path: /zh/javascript/axios.html
+  "v-7719c3dd": defineAsyncComponent(() => import(/* webpackChunkName: "v-7719c3dd" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/zh/javascript/axios.html.vue")),
 }

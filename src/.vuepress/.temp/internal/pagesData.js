@@ -101,4 +101,6 @@ export const pagesData = {
   "v-4e127069": () => import(/* webpackChunkName: "v-4e127069" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/zh/category/standard/index.html.js").then(({ data }) => data),
   // path: /zh/tag/standard/
   "v-41985e96": () => import(/* webpackChunkName: "v-41985e96" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/zh/tag/standard/index.html.js").then(({ data }) => data),
+  // path: /zh/javascript/axios.html
+  "v-7719c3dd": () => import(/* webpackChunkName: "v-7719c3dd" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/zh/javascript/axios.html.js").then(({ data }) => data),
 }

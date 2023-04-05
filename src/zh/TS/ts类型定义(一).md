@@ -232,6 +232,34 @@ copyright: No Copyright
     ```
    在使用命名空间和模块时，需要注意命名和定义的正确性和可读性，避免出现命名冲突或命名不规范
 
+### ts 定义公共函数形式
+
+    ```ts
+    interface IinspectFn {
+      <T>(a:T,b:T):boolean
+    }
+
+    <!-- 实现 -->
+    let fn1:IinspectFn = (s1,S2)=>boolean
+
+    // 调用
+    fn1<string>('a', 'b')
+    ```
+   或者第二种写法
+
+   ```ts
+      interface IinspectFn<T> {
+        (a:T,b:T):boolean
+      }
+
+      <!-- 实现 -->
+      let fn1:IinspectFn<string> = (s1,S2)=>boolean
+
+     // 调用
+      fn1('a', 'b')
+
+   ```
+
 ## 总结
 
 - 使用强类型避免类型错误

@@ -23,9 +23,22 @@ export const enSidebar = sidebar({
         { text: 'PdfPreview', icon: 'javascript', link: 'PDF-Preview' }
       ]
     },
+    {
+      text: 'Css',
+      icon: 'css',
+      link: '/en/css/',
+      prefix: '/en/css/',
+      children: [{ text: 'flex', icon: 'css', link: 'flex' }]
+    },
     { text: 'TS', icon: 'typescript', link: '/en/TS/' },
     { text: 'Nodejs', icon: 'nodejs', link: '/en/nodejs/' },
     { text: 'uniapp', icon: 'app4', link: '/en/uniapp/' },
-    { text: 'dailyAccumulation', icon: 'richangguanli', link: '/en/dailyAccumulation/' }
+    {
+      text: 'dailyAccumulation',
+      icon: 'richangguanli',
+      link: '/en/dailyAccumulation/',
+      prefix: '/en/dailyAccumulation/',
+      children: [{ text: '进阶面试题', icon: 'richangguanli', link: '2023Web前端进阶面试题' }]
+    }
   ]
 })

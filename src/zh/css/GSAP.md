@@ -2,7 +2,9 @@
 
 # This is the title of the article
 
-title: Ref
+title: GSAP动画库
+
+shortTitle: gsap动画库
 
 # This is the icon of the page
 
@@ -18,19 +20,21 @@ author: WY
 
 # Set writing time
 
-date: 2023-03-08
+date: 2023-04-21
 
 # A page can have multiple categories
 
 category:
 
-- Vue
+- css
+- animation
 
 # A page can have multiple tags
 
 tag:
 
-- Vue
+- css
+- animation
 
 # this page is sticky in article list
 
@@ -51,12 +55,6 @@ copyright: No Copyright
 
 <!-- more -->
 
-## 原理
+## Animation Library
 
-## 用法
-
-## 示例
-
-## 小试牛刀
-
-<!-- more -->
+### [参考](http://www.tweenmax.com.cn/ModifiersPlugin/)

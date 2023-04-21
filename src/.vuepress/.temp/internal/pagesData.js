@@ -19,10 +19,10 @@ export const pagesData = {
   "v-26f4361c": () => import(/* webpackChunkName: "v-26f4361c" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/en/vue/ref.html.js").then(({ data }) => data),
   // path: /zh/css/flex.html
   "v-ae320168": () => import(/* webpackChunkName: "v-ae320168" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/zh/css/flex.html.js").then(({ data }) => data),
+  // path: /zh/css/GSAP.html
+  "v-4a04032c": () => import(/* webpackChunkName: "v-4a04032c" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/zh/css/GSAP.html.js").then(({ data }) => data),
   // path: /zh/dailyAccumulation/2023Web%E5%89%8D%E7%AB%AF%E8%BF%9B%E9%98%B6%E9%9D%A2%E8%AF%95%E9%A2%98.html
   "v-42a120ac": () => import(/* webpackChunkName: "v-42a120ac" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/zh/dailyAccumulation/2023Web前端进阶面试题.html.js").then(({ data }) => data),
-  // path: /zh/nodejs/download-git-repo.html
-  "v-20c378fa": () => import(/* webpackChunkName: "v-20c378fa" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/zh/nodejs/download-git-repo.html.js").then(({ data }) => data),
   // path: /zh/javascript/auth.html
   "v-0274d737": () => import(/* webpackChunkName: "v-0274d737" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/zh/javascript/auth.html.js").then(({ data }) => data),
   // path: /zh/javascript/axios.html
@@ -35,6 +35,10 @@ export const pagesData = {
   "v-b92dfe36": () => import(/* webpackChunkName: "v-b92dfe36" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/zh/javascript/proxy.html.js").then(({ data }) => data),
   // path: /zh/javascript/watcher.html
   "v-3f3e6852": () => import(/* webpackChunkName: "v-3f3e6852" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/zh/javascript/watcher.html.js").then(({ data }) => data),
+  // path: /zh/javascript/%E5%8E%9F%E5%9E%8B%E5%8E%9F%E5%9E%8B%E9%93%BE.html
+  "v-23b0f466": () => import(/* webpackChunkName: "v-23b0f466" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/zh/javascript/原型原型链.html.js").then(({ data }) => data),
+  // path: /zh/nodejs/download-git-repo.html
+  "v-20c378fa": () => import(/* webpackChunkName: "v-20c378fa" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/zh/nodejs/download-git-repo.html.js").then(({ data }) => data),
   // path: /zh/TS/ts%E7%B1%BB%E5%9E%8B%E5%AE%9A%E4%B9%89(%E4%B8%80).html
   "v-08842095": () => import(/* webpackChunkName: "v-08842095" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/zh/TS/ts类型定义(一).html.js").then(({ data }) => data),
   // path: /zh/vue/devStandard.html
@@ -43,6 +47,8 @@ export const pagesData = {
   "v-e11bb6e2": () => import(/* webpackChunkName: "v-e11bb6e2" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/zh/vue/reactive.html.js").then(({ data }) => data),
   // path: /zh/vue/ref.html
   "v-3ac133b7": () => import(/* webpackChunkName: "v-3ac133b7" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/zh/vue/ref.html.js").then(({ data }) => data),
+  // path: /zh/vue/vue3.0Api%E4%B8%80%E8%A7%88%E8%A1%A8.html
+  "v-66b64400": () => import(/* webpackChunkName: "v-66b64400" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/zh/vue/vue3.0Api一览表.html.js").then(({ data }) => data),
   // path: /404.html
   "v-3706649a": () => import(/* webpackChunkName: "v-3706649a" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/404.html.js").then(({ data }) => data),
   // path: /en/javascript/
@@ -55,10 +61,10 @@ export const pagesData = {
   "v-53fabfb4": () => import(/* webpackChunkName: "v-53fabfb4" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/zh/css/index.html.js").then(({ data }) => data),
   // path: /zh/dailyAccumulation/
   "v-ef5a76ce": () => import(/* webpackChunkName: "v-ef5a76ce" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/zh/dailyAccumulation/index.html.js").then(({ data }) => data),
-  // path: /zh/nodejs/
-  "v-0742a49c": () => import(/* webpackChunkName: "v-0742a49c" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/zh/nodejs/index.html.js").then(({ data }) => data),
   // path: /zh/javascript/
   "v-ef71938c": () => import(/* webpackChunkName: "v-ef71938c" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/zh/javascript/index.html.js").then(({ data }) => data),
+  // path: /zh/nodejs/
+  "v-0742a49c": () => import(/* webpackChunkName: "v-0742a49c" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/zh/nodejs/index.html.js").then(({ data }) => data),
   // path: /zh/TS/
   "v-c0c70130": () => import(/* webpackChunkName: "v-c0c70130" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/zh/TS/index.html.js").then(({ data }) => data),
   // path: /zh/vue/
@@ -95,6 +101,10 @@ export const pagesData = {
   "v-4cb2fa2d": () => import(/* webpackChunkName: "v-4cb2fa2d" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/zh/category/flex/index.html.js").then(({ data }) => data),
   // path: /zh/tag/flex/
   "v-4ec86079": () => import(/* webpackChunkName: "v-4ec86079" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/zh/tag/flex/index.html.js").then(({ data }) => data),
+  // path: /zh/category/animation/
+  "v-58f8ee98": () => import(/* webpackChunkName: "v-58f8ee98" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/zh/category/animation/index.html.js").then(({ data }) => data),
+  // path: /zh/tag/animation/
+  "v-668e31e8": () => import(/* webpackChunkName: "v-668e31e8" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/zh/tag/animation/index.html.js").then(({ data }) => data),
   // path: /zh/category/http/
   "v-4cd3037e": () => import(/* webpackChunkName: "v-4cd3037e" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/zh/category/http/index.html.js").then(({ data }) => data),
   // path: /zh/tag/http/
@@ -111,14 +121,6 @@ export const pagesData = {
   "v-495030be": () => import(/* webpackChunkName: "v-495030be" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/zh/category/fetch/index.html.js").then(({ data }) => data),
   // path: /zh/tag/fetch/
   "v-ec30d81c": () => import(/* webpackChunkName: "v-ec30d81c" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/zh/tag/fetch/index.html.js").then(({ data }) => data),
-  // path: /zh/category/nodejs/
-  "v-cfd0904a": () => import(/* webpackChunkName: "v-cfd0904a" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/zh/category/nodejs/index.html.js").then(({ data }) => data),
-  // path: /zh/tag/nodejs/
-  "v-6a6cbb27": () => import(/* webpackChunkName: "v-6a6cbb27" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/zh/tag/nodejs/index.html.js").then(({ data }) => data),
-  // path: /zh/category/npm/
-  "v-8faafe26": () => import(/* webpackChunkName: "v-8faafe26" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/zh/category/npm/index.html.js").then(({ data }) => data),
-  // path: /zh/tag/-npm/
-  "v-4ba63574": () => import(/* webpackChunkName: "v-4ba63574" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/zh/tag/-npm/index.html.js").then(({ data }) => data),
   // path: /zh/category/javascript/
   "v-945adc0e": () => import(/* webpackChunkName: "v-945adc0e" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/zh/category/javascript/index.html.js").then(({ data }) => data),
   // path: /zh/tag/javascript/
@@ -163,6 +165,22 @@ export const pagesData = {
   "v-2e2a7666": () => import(/* webpackChunkName: "v-2e2a7666" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/zh/category/设计模式/index.html.js").then(({ data }) => data),
   // path: /zh/tag/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/
   "v-2598a69c": () => import(/* webpackChunkName: "v-2598a69c" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/zh/tag/设计模式/index.html.js").then(({ data }) => data),
+  // path: /zh/category/%E5%8E%9F%E5%9E%8B/
+  "v-dafd30f0": () => import(/* webpackChunkName: "v-dafd30f0" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/zh/category/原型/index.html.js").then(({ data }) => data),
+  // path: /zh/tag/%E5%8E%9F%E5%9E%8B/
+  "v-35604e58": () => import(/* webpackChunkName: "v-35604e58" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/zh/tag/原型/index.html.js").then(({ data }) => data),
+  // path: /zh/category/%E5%8E%9F%E5%9E%8B%E9%93%BE/
+  "v-cf6f4898": () => import(/* webpackChunkName: "v-cf6f4898" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/zh/category/原型链/index.html.js").then(({ data }) => data),
+  // path: /zh/tag/%E5%8E%9F%E5%9E%8B%E9%93%BE/
+  "v-7df69fe8": () => import(/* webpackChunkName: "v-7df69fe8" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/zh/tag/原型链/index.html.js").then(({ data }) => data),
+  // path: /zh/category/nodejs/
+  "v-cfd0904a": () => import(/* webpackChunkName: "v-cfd0904a" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/zh/category/nodejs/index.html.js").then(({ data }) => data),
+  // path: /zh/tag/nodejs/
+  "v-6a6cbb27": () => import(/* webpackChunkName: "v-6a6cbb27" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/zh/tag/nodejs/index.html.js").then(({ data }) => data),
+  // path: /zh/category/npm/
+  "v-8faafe26": () => import(/* webpackChunkName: "v-8faafe26" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/zh/category/npm/index.html.js").then(({ data }) => data),
+  // path: /zh/tag/-npm/
+  "v-4ba63574": () => import(/* webpackChunkName: "v-4ba63574" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/zh/tag/-npm/index.html.js").then(({ data }) => data),
   // path: /zh/category/ts/
   "v-50438627": () => import(/* webpackChunkName: "v-50438627" */"E:/own/frontendtechnologysharing.github.com/src/.vuepress/.temp/pages/zh/category/ts/index.html.js").then(({ data }) => data),
   // path: /zh/tag/ts/

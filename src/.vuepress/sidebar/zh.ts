@@ -2,7 +2,7 @@
  * @Author: wy wang.yong@easttrans.cn
  * @Date: 2023-03-07 12:46:22
  * @LastEditors: wy wang.yong@easttrans.cn
- * @LastEditTime: 2023-04-06 09:26:19
+ * @LastEditTime: 2023-04-21 09:16:34
  * @FilePath: \frontendtechnologysharing.github.com\src\.vuepress\sidebar\zh.ts
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  */
@@ -23,6 +23,7 @@ export const zhSidebar = sidebar({
       link: '/zh/vue/',
       prefix: '/zh/vue/',
       children: [
+        { text: 'vue3.0Api一览表', icon: 'vuejs', link: 'vue3.0Api一览表' },
         { text: 'ref', icon: 'vuejs', link: 'ref' },
         { text: 'reactive', icon: 'vuejs', link: 'reactive' }
       ]
@@ -35,7 +36,10 @@ export const zhSidebar = sidebar({
       prefix: '/zh/javascript/',
       children: [
         { text: 'Proxy', icon: 'javascript', link: 'proxy' },
-        { text: 'PdfPreview', icon: 'javascript', link: 'PDF-Preview' }
+        { text: '原型&原型链', icon: 'javascript', link: '原型原型链' },
+        { text: 'Auth', icon: 'javascript', link: 'auth' },
+        { text: 'microServer', icon: 'javascript', link: 'microServer' },
+        { text: 'watcher', icon: 'javascript', link: 'watcher' }
       ]
     },
     {
@@ -43,7 +47,10 @@ export const zhSidebar = sidebar({
       icon: 'css',
       link: '/zh/css/',
       prefix: '/zh/css/',
-      children: [{ text: 'flex', icon: 'css', link: 'flex' }]
+      children: [
+        { text: 'flex', icon: 'css', link: 'flex' },
+        { text: 'GSAP', icon: 'css', link: 'GSAP' }
+      ]
     },
     { text: 'TS', icon: 'typescript', link: '/zh/TS/' },
     { text: 'Nodejs', icon: 'nodejs', link: '/zh/nodejs/' },
